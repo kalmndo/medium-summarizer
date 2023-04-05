@@ -76,7 +76,7 @@ export default function IndexPage() {
           </span>
           article with AI
         </h1>
-        <h2 className="mt-16 text-md text-gray-600 sm:text-lg">
+        <h2 className="mt-16 text-sm text-gray-600 sm:text-lg">
           Copy and paste any{" "}
           <span className="bg-gradient-to-r from-amber-500 via-orange-600 to-yellow-500 bg-clip-text text-transparent">
             Medium{" "}
